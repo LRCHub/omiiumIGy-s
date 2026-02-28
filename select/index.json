@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Like I Do",
+  "base_artist": "J.Tajor",
+  "createdAt": "2026-02-28T06:10:53.986599Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You Don't Know Her Like I Do",
+      "artist": "Brantley Gilbert",
+      "has_synced": true,
+      "path": "select/01_You_Don't_Know_Her_Like_I_Do_Brantley_Gilbert.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Like I Do",
+      "artist": "Minipop",
+      "has_synced": true,
+      "path": "select/02_Like_I_Do_Minipop.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(Can't You) Trip Like I Do [feat. The Crystal Method]",
+      "artist": "Filter",
+      "has_synced": true,
+      "path": "select/03_(Can't_You)_Trip_Like_I_Do_[feat._The_Crystal_Method]_Filter.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "(Can't You) Trip Like I Do (feat. Filter)",
+      "artist": "The Crystal Method",
+      "has_synced": true,
+      "path": "select/04_(Can't_You)_Trip_Like_I_Do_(feat._Filter)_The_Crystal_Method.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Trip Like I Do",
+      "artist": "The Crystal Method",
+      "has_synced": true,
+      "path": "select/05_Trip_Like_I_Do_The_Crystal_Method.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love You Like I Do",
+      "artist": "Stryper",
+      "has_synced": true,
+      "path": "select/06_Love_You_Like_I_Do_Stryper.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love You Like I Do",
+      "artist": "HIM",
+      "has_synced": false,
+      "path": "select/07_Love_You_Like_I_Do_HIM.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "They Don't Know You Like I Do",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/08_They_Don't_Know_You_Like_I_Do_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Like I Do Now",
+      "artist": "Chris Botti",
+      "has_synced": true,
+      "path": "select/09_Like_I_Do_Now_Chris_Botti.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Like I Do",
+      "artist": "Star Slinger",
+      "has_synced": true,
+      "path": "select/10_Like_I_Do_Star_Slinger.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Don't Love Me Like I Do",
+      "artist": "Elisa",
+      "has_synced": true,
+      "path": "select/11_You_Don't_Love_Me_Like_I_Do_Elisa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Like I Do (feat. GoldLink)",
+      "artist": "Christina Aguilera",
+      "has_synced": true,
+      "path": "select/12_Like_I_Do_(feat._GoldLink)_Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Like I Do",
+      "artist": "Christina Aguilera, GoldLink",
+      "has_synced": true,
+      "path": "select/13_Like_I_Do_Christina_Aguilera,_GoldLink.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nobody Loves You Like I Do",
+      "artist": "Emerson, Lake & Palmer",
+      "has_synced": true,
+      "path": "select/14_Nobody_Loves_You_Like_I_Do_Emerson,_Lake_&_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "(Greg Lake) Nobody Loves You Like I Do",
+      "artist": "Emerson, Lake & Palmer",
+      "has_synced": false,
+      "path": "select/15_(Greg_Lake)_Nobody_Loves_You_Like_I_Do_Emerson,_Lake_&_Palmer.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Nobody Loves You Like I Do",
+      "artist": "Greg Lake",
+      "has_synced": true,
+      "path": "select/16_Nobody_Loves_You_Like_I_Do_Greg_Lake.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "You Need Love Like I Do (Don't You?)",
+      "artist": "Tom Jones feat. Heather Small",
+      "has_synced": false,
+      "path": "select/17_You_Need_Love_Like_I_Do_(Don't_You_)_Tom_Jones_feat._Heather_Small.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Like I Do",
+      "artist": "J.Tajor",
+      "has_synced": false,
+      "path": "select/pl_01_Like_I_Do_J.Tajor.txt"
+    }
+  ]
+}
